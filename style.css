@@ -1,0 +1,73 @@
+:root {
+    scrollbar-gutter: auto !important;
+}
+
+.br-color {
+    color: orange;
+}
+
+
+/* Navbar */
+
+.nav-link{
+    color: white !important;
+}
+
+.navbar {
+    background: linear-gradient(135deg, #2d3436 0%, #0f2e37 50%, #850500 100%) !important;
+    padding: 0.75rem 0 !important;
+    box-shadow: 0 2px 20px rgba(74, 48, 40, 0.25) !important;
+}
+
+.navbar-brand {
+    font-size: 26px;
+}
+
+.nav-link {
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    color: #ffbd39 !important;
+}
+
+.lgo1 {
+    color: white;
+}
+
+.lgo2 {
+    color: #ffbd39 !important;
+
+}
+
+
+/* footer */
+
+footer {
+    background: linear-gradient(135deg, #2d3436 0%, #0f2e37 50%, #850500 100%) !important;
+    padding: 0.75rem 0 !important;
+    box-shadow: 0 2px 20px rgba(74, 48, 40, 0.25) !important;
+}
+
+/* about us */
+
+.welcome-text{
+    color:rgb(3, 206, 40) !important;
+
+}
+
+.lgo3{
+    color: lightgreen !important;
+}
+
+.flex-center{
+margin: auto;
+}
+
+/* index */
+
+.head-item{
+    color: dimgray;
+    font-size: larger;
+    font-weight: bold;
+}
